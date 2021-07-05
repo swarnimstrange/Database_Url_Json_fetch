@@ -1,0 +1,52 @@
+{
+    "Data" : [
+    {
+        "name" : "The Rock",
+        "height" : "6'5",
+        "weight" : "260",
+        "img_url" : "https://www.koimoi.com/wp-content/new-galleries/2020/12/wwe-dwayne-johnson-aka-the-rock-to-return-to-the-wrestling-ring-in-2021-deets-inside001.jpg",
+        "career" : "16 Years",
+        "agility" : "75"
+    },
+    {
+        "name" : "The Great Khali",
+        "height" : "7'3",
+        "weight" : "420",
+        "img_url" : "https://www.wrestling-news.net/wp-content/uploads/2014/05/The-Great-Khali.jpg",
+        "career" : "8 Years",
+        "agility" : "50"
+    },
+    {
+        "name" : "John Cena",
+        "height" : "6'1",
+        "weight" : "240",
+        "img_url" : "https://i.pinimg.com/originals/51/4e/b3/514eb37ee00207761443c092ecd9d0e4.jpg",
+        "career" : "15 Years",
+        "agility" : "70"
+    },
+    {
+        "name" : "Mark Henry",
+        "height" : "6'1",
+        "weight" : "380",
+        "img_url" : "https://www.thefamouspeople.com/profiles/images/mark-henry-1.jpg",
+        "career" : "25 Years",
+        "agility" : "51"
+    },
+    {
+        "name" : "Randy Orton",
+        "height" : "6'4",
+        "weight" : "245",
+        "img_url" : "https://staticg.sportskeeda.com/editor/2021/06/b9f36-16248656968513-800.jpg",
+        "career" : "13 Years",
+        "agility" : "67"
+    },
+    {
+        "name" : "Stone Cold",
+        "height" : "6'2",
+        "weight" : "252",
+        "img_url" : "https://i.pinimg.com/originals/2f/9a/3a/2f9a3abddf6be5d536086a7232a45e2e.jpg",
+        "career" : "14 Years",
+        "agility" : "70"
+    }
+]
+}

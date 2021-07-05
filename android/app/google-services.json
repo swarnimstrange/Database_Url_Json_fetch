@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1075277004286",
+    "firebase_url": "https://masterfire-3dc55-default-rtdb.firebaseio.com",
+    "project_id": "masterfire-3dc55",
+    "storage_bucket": "masterfire-3dc55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075277004286:android:f6d4d910f3cc3fa8b6d4af",
+        "android_client_info": {
+          "package_name": "com.example.wwe_cards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075277004286-j336rrgsgqn4cpbfm1o4savv2vo6btag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMA-E4J_AnvQ2iICe01h9uceMtHH3mzVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075277004286-j336rrgsgqn4cpbfm1o4savv2vo6btag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
