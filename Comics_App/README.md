@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-#How the intreface looks.
+**How the intreface looks.**
 <p float="left">
   <img src="https://i.ibb.co/gyKn6Pc/main-page.jpg" width="300" />
   <img src="https://i.ibb.co/pry9StP/hin-main-page.jpg" width="300" /> 
@@ -12,7 +12,7 @@ A new Flutter project.
 
 
 
-#look of Comics inside it.
+**look of Comics inside it.**
 <p float="left">
   <img src="https://i.ibb.co/KjHw7QQ/inside.jpg" width="300" />
 </p>
@@ -20,7 +20,7 @@ A new Flutter project.
 
 
 
-#Zooming
+**Zooming**
 <p float="left">
   <img src="https://i.ibb.co/PmHNXXv/zoom.jpg" width="300" />
 </p>
